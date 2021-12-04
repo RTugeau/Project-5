@@ -1,13 +1,14 @@
 import java.util.Scanner;
 /**
- * Write a description of class AwayTeam here.
+ * The Teams Class creates the the two teams that will compete in the simulation. The Teams Class holds the Team's Names, Runs, and Hits, which are saved 
+ *  and used in the simulation. The method getUserName() scans the user input in the main to correctly set the user-entered Team Names used in the 
+ *  simulator.
  *
  * @author (your name)
  * @version (a version number or a date)
  */
 public class Teams {
     private String teamName;
-    private int teamNumber;
     private int runs;
     private int hits;
     
