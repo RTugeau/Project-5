@@ -37,4 +37,5 @@ public class Teams {
         teamName = scan.next();
         return teamName;
     }
+    
 }

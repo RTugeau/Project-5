@@ -262,7 +262,6 @@ public class BaseballGameSim
                     }
                 }
             }
-            
             playBall = (halfInning < 18);
         }
         if (awayRuns > homeRuns) {
